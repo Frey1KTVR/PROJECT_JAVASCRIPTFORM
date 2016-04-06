@@ -87,7 +87,7 @@ xhr.onload=function(){
 	
 }	
 	
-xhr.open("GET","data.json",true);
+xhr.open("GET","data.txt",true);
 xhr.send();
 }
 
